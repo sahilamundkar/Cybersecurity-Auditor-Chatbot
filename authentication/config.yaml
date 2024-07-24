@@ -1,0 +1,26 @@
+cookie:
+  expiry_days: 30
+  key: aegis
+  name: aegis
+credentials:
+  usernames:
+    max:
+      email: max@gmail.com
+      logged_in: false
+      name: max
+      password: $2b$12$R29.vVzylQuymR1hOSWpLuHFauGTUCcdJC3rlqEaLaKjOk13.F8P.
+    sahil:
+      email: sahil@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Sahil
+      password: $2b$12$RAawhfV1ySGjt3IRXo5zvO1frXp.FPHeh3peKTfUsQJz0UdmNNi8W
+    sherwin:
+      email: sherwin@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Sherwin Lobo
+      password: $2b$12$TOXK5XeY1Rg8w2V5uAP6nuEx/3GLLSWrOM0d7kLwODFZa7iogEnYK
+pre-authorized:
+  emails:
+  - sherwin@gmail.com

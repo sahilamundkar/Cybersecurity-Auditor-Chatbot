@@ -1,0 +1,14 @@
+langchain_openai 
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+faiss-cpu
+groq
+cassio
+langchain-groq
+langchainhub
+PyPDF2
+backoff
+tiktoken
+os
