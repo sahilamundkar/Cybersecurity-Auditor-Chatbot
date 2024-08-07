@@ -1,3 +1,9 @@
+"""
+Author: Sahil Sunil Amundkar
+Date: 08/06/2024
+Description: Streamlit application with Groq integration for cybersecurity framework design using ISO 27001 and ISO27002 standards.
+"""
+
 import streamlit as st
 import sqlite3
 from datetime import datetime
